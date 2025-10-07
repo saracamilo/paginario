@@ -8,6 +8,13 @@
 O **Paginário** é um projeto web desenvolvido com React e Vite, focado em facilitar a criação e gestão de clubes de leitura. Usuários podem buscar livros, filtrar por categorias, participar de salas temáticas, acompanhar eventos e interagir com outros leitores.
 
 ## 🖼️ Funcionalidades
+- Busca inteligente de livros e categorias.
+- Filtros por gênero, formato, data e nível de leitura.
+- Salas de leitura organizadas e destaque para salas populares.
+- Calendário de eventos e sessões semanais.
+- Depoimentos de usuários.
+- Benefícios e instruções de uso.
+- Interface responsiva e moderna.
 
 ## 📦 Estrutura do Projeto
 ```
@@ -49,6 +56,7 @@ Tecnologias utilizadas neste projeto:
 - Vite
 - JavaScript (ES6+)
 - CSS Modules
+
 ## 📚 Componentes Principais
 Principais componentes do projeto:
 
@@ -61,6 +69,7 @@ Principais componentes do projeto:
 - `Benefits` — Benefícios do clube
 - `Testimonials` — Depoimentos de usuários
 - `Footer` — Rodapé
+
 ## 💡 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests.
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests.
@@ -68,6 +77,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir 
 ## � Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 
 Feito com ❤️ por Sara Camilo. 
