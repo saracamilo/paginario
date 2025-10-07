@@ -43,11 +43,26 @@ O **Paginário** é um projeto web desenvolvido com React e Vite, focado em faci
 4. Acesse [http://localhost:5173](http://localhost:5173) no navegador.
 
 ## 🛠️ Tecnologias Utilizadas
+Tecnologias utilizadas neste projeto:
 
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS Modules
 ## 📚 Componentes Principais
+Principais componentes do projeto:
 
+- `Navbar` — Navegação principal
+- `Hero` — Apresentação do projeto
+- `SearchBarAndFilters` — Busca e filtros
+- `PopularCategories` — Categorias populares
+- `FeaturedRooms` — Salas em destaque
+- `CalendarAndInfo` — Calendário e instruções
+- `Benefits` — Benefícios do clube
+- `Testimonials` — Depoimentos de usuários
+- `Footer` — Rodapé
 ## 💡 Contribuição
-
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests.
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests.
 
 ## � Licença
