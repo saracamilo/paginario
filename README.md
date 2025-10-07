@@ -55,5 +55,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
-Feito com ❤️ por [Seu Nome]
-- `Navbar` — Navegação principal
+Feito com ❤️ por Sara Camilo. 
